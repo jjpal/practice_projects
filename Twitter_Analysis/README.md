@@ -19,11 +19,13 @@ Client credentials:
     Callback URL === oauth_callback
 
 login.csv format
-_________________
+col_name (key) and keys in the cells below - the same column 
+
 key
-***********
-************ 
-*********** 
-************* 
+
+oooooooooooo  \
+oooooooooooo  \
+oooooooooooo  \
+oooooooooooo   
 
 
