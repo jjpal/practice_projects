@@ -2,21 +2,21 @@
 
 Source : https://en.tutiempo.net/climate/united-states.html
 
-Data Dictionary  --- 	Interpretation annual average climate values	
-T   (°C ) 		 --- 	Average annual temperature : Celsius
-T Avg (°F ) 	 --- 	Average annual temperature : Fahrenheit
-TM  (°C ) 		 --- 	Annual average maximum temperature
-T Avg Max (°F )  --- 	Annual average maximum temperature : Fahrenheit
-Tm  (°C ) 		 --- 	Average annual minimum temperature
-T Avg Min ( °F ) --- 	Average annual minimum temperature : Fahrenheit
-PP 				 --- 	Rain or snow precipitation total annual
-V 				 --- 	Annual average wind speed
-RA 				 --- 	Number of days with rain
-SN 				 --- 	Number of days with snow
-TS 				 --- 	Number of days with storm
-FG 				 --- 	Number of foggy days
-TN 				 --- 	Number of days with tornado
-GR 				 --- 	Number of days with hail
+Data Dictionary  --- 	Interpretation annual average climate values	\
+T   (°C ) 		 --- 	Average annual temperature : Celsius \
+T Avg (°F ) 	 --- 	Average annual temperature : Fahrenheit \
+TM  (°C ) 		 --- 	Annual average maximum temperature \
+T Avg Max (°F )  --- 	Annual average maximum temperature : Fahrenheit \
+Tm  (°C ) 		 --- 	Average annual minimum temperature \
+T Avg Min ( °F ) --- 	Average annual minimum temperature : Fahrenheit \
+PP 				 --- 	Rain or snow precipitation total annual \
+V 				 --- 	Annual average wind speed \
+RA 				 --- 	Number of days with rain \
+SN 				 --- 	Number of days with snow \
+TS 				 --- 	Number of days with storm \
+FG 				 --- 	Number of foggy days \
+TN 				 --- 	Number of days with tornado \
+GR 				 --- 	Number of days with hail \
 
 
  ## Notes
