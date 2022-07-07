@@ -16,18 +16,19 @@ SN 				 --- 	Number of days with snow \
 TS 				 --- 	Number of days with storm \
 FG 				 --- 	Number of foggy days \
 TN 				 --- 	Number of days with tornado \
-GR 				 --- 	Number of days with hail \
+GR 				 --- 	Number of days with hail
 
 ---
 
  ## Notes
 
+- Data selected from different states to include at least 1 state from differnt timezones (different weather climates)
+ 
 [source]
 - If the table has displayed fields without values will have the symbol (-) this only indicates that has not been performed average, this happens if there is no sufficient data to compute.
 - The total rainfall value 0 (zero) may indicate that there has made such measurement and / or the weather station does not broadcast.
 
 [transformation notes]
-- Data selected from different states to include at least 1 state from differnt timezones (different weather climates)
 - Replaced missing data with 0.0 for average temperature and replaced annual average/counts climate values that were missing with -1.0
 
 
