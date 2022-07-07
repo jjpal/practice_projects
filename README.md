@@ -9,4 +9,5 @@ In work - wishlist of planned projects
 - Volunteer Database App
 - Product/Product Analytics
 - Data Engineering
-
+- Analytics Engineering
+- Database / SQL scripts
