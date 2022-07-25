@@ -1,6 +1,4 @@
-# practice_projects
-
-In work - planned projects 
+# In work - planned projects 
 - EDA/Visualization
 - Analytics Engineering
 - Data Engineering
@@ -9,10 +7,11 @@ In work - planned projects
 - APIs to generate datasets (Twitter, ) 
 - Product/Product Analytics
 - Diagrams: Architecture/ERD
+- Volunteer Database App
 
 - Workshops projects
 - Hackathon/Datathon projects
-- Volunteer Database App
+
 
 # Subjects - datasets related to:
 - Temperature/Climate
