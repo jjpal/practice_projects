@@ -11,3 +11,13 @@ In work - wishlist of planned projects
 - Data Engineering
 - Analytics Engineering
 - Database / SQL scripts
+
+# Subjects - datasets related to:
+- Temperature/Climate
+- Food /Availability/ Production/ Nutrition/ Health
+- Animals /Protection /Health / Care
+- Elder /Protection /Health / Care
+- Conservation /[Up]Recycling/ Water/ Electricity/ Nature
+
+Tasks:
+Combine some of the subjects into different sources to later create/build pipeline
