@@ -1,16 +1,18 @@
 # practice_projects
 
-In work - wishlist of planned projects 
+In work - planned projects 
 - EDA/Visualization
+- Analytics Engineering
+- Data Engineering
+- Database / SQL scripts
+- Python (scripts/scraping)
+- APIs to generate datasets (Twitter, ) 
+- Product/Product Analytics
 - Diagrams: Architecture/ERD
-- Analysis: APIs to generate datasets (Twitter, ) 
-- Workshops 
+
+- Workshops projects
 - Hackathon/Datathon projects
 - Volunteer Database App
-- Product/Product Analytics
-- Data Engineering
-- Analytics Engineering
-- Database / SQL scripts
 
 # Subjects - datasets related to:
 - Temperature/Climate
