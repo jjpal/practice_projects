@@ -1,8 +1,8 @@
 # In work - planned projects 
-- EDA/Visualization
 - Analytics Engineering
 - Data Engineering
 - Database / SQL scripts
+- EDA/Visualization
 - Python (scripts/scraping)
 - APIs to generate datasets (Twitter, ) 
 - Product/Product Analytics
