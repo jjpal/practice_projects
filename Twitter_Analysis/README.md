@@ -9,13 +9,17 @@ You can apply for API keys by getting a twitter developer account https://develo
 To extract the tweets (api.user_timeline) elevated access wil be needed - which can be requested from the developer (your account) dashboard.
 
 Tutorial form Computer Science channel https://www.youtube.com/watch?v=ujId4ipkBio
-
-Terminology clarification - from API documentation
 _________________
+
+#### Terminology clarification - from API documentation
+
+
 Client credentials:
 
     App Key === API Key === Consumer API Key === Consumer Key === Customer Key === oauth_consumer_key
+    
     App Key Secret === API Secret Key === Consumer Secret === Consumer Key === Customer Key === oauth_consumer_secret
+    
     Callback URL === oauth_callback
 
 login.csv format
