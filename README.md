@@ -16,10 +16,10 @@
 # Subjects - datasets related to:
 - Temperature/ Climate
 - Food Availability/ Production
-- Nutrition/ Health
-- Animals /Protection / Adoption
-- Elder /Protection /Healthcare
-- Conservation / Water/ Electricity/ 
+- Nutrition / Health
+- Animals / Protection / Adoption
+- Elder / Protection /Healthcare
+- Conservation / Water/ Electricity
 - Nature / Enviroment / Recycling
 
 Tasks:
